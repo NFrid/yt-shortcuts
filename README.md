@@ -14,8 +14,10 @@ configured by chrome's shortcuts system.
 
 ## Configuration
 
-Go [chrome://extensions/shortcuts](chrome://extensions/shortcuts) and edit
+Go [Chrome's shortcuts settings](chrome://extensions/shortcuts) and edit
 shortcuts for YouTube Shortcuts.
+
+Also you can click on the icon of the extension to go there.
 
 ## Planned features
 

@@ -8,8 +8,8 @@ configured by chrome's shortcuts system.
 ## Current features
 
 - Like/dislike/unlike the video:
-  - Like (default `Alt+L`) like the video
-  - Dislike (default `Alt+J`) dislike the video
+  - Like (default `Alt+L`) likes the video
+  - Dislike (default `Alt+J`) dislikes the video
   - Unlike (default `Alt+K`) clears like/dislike
 
 ## Configuration

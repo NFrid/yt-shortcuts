@@ -1,16 +1,16 @@
 {
   "name": "YouTube Shortcuts",
   "description": "Extended and configurable shortcuts for YouTube",
-  "version": "1.0",
+  "version": "1.0.1",
   "manifest_version": 3,
-  "host_permissions": ["*://*.youtube.com/watch*"],
+  "host_permissions": ["*://*.youtube.com/*"],
   "permissions": ["tabs"],
   "background": {
     "service_worker": "background.js"
   },
   "content_scripts": [
     {
-      "matches": ["*://*.youtube.com/watch*"],
+      "matches": ["*://*.youtube.com/*"],
       "js": ["index.js"]
     }
   ],

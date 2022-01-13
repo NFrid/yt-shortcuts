@@ -1,7 +1,7 @@
 {
   "name": "YouTube Shortcuts",
   "description": "Extended and configurable shortcuts for YouTube",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "manifest_version": 3,
   "host_permissions": ["*://*.youtube.com/*"],
   "background": {
@@ -31,6 +31,21 @@
     "dislike": {
       "suggested_key": "Alt+J",
       "description": "Dislike the video"
+    },
+
+    "sub": {
+      "suggested_key": "Alt+H",
+      "description": "Toggle subscribtion"
+    },
+
+    "notify_all": {
+      "description": "Set notify bell to All"
+    },
+    "notify_personal": {
+      "description": "Set notify bell to Personalized"
+    },
+    "notify_none": {
+      "description": "Set notify bell to None"
     }
   }
 }

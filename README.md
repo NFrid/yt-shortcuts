@@ -11,6 +11,8 @@ configured by chrome's shortcuts system.
   - Like (default `Alt+L`) likes the video
   - Dislike (default `Alt+J`) dislikes the video
   - Unlike (default `Alt+K`) clears like/dislike
+- Toggle Sub (default `Alt+M`) toggles subscription button
+- Set Notification Bell to All/Personalized/None
 
 ## Configuration
 
@@ -25,5 +27,5 @@ Also you can click on the icon of the extension to go there.
 
 ## Credits
 
-[avi12](https://avi12.com/) provided me with code I was lazy to implement by myself.
-Here's the project I looked up the main logic: [youtube-like-dislike-shortcut](https://github.com/avi12/youtube-like-dislike-shortcut).
+[avi12](https://avi12.com/) provided me with some code I was lazy to implement by myself.
+Here's their project: [youtube-like-dislike-shortcut](https://github.com/avi12/youtube-like-dislike-shortcut).
